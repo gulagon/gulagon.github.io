@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gulagon.github.io/sitemap.html.gz
+Sitemap: https://gulagon.github.io/app/sitemap.html.gz
+Sitemap: https://gulagon.github.io/assets/sitemap.html.gz
+Sitemap: https://gulagon.github.io/css/sitemap.html.gz
+Sitemap: https://gulagon.github.io/data/sitemap.html.gz
+Sitemap: https://gulagon.github.io/includes/sitemap.html.gz
+Sitemap: https://gulagon.github.io/item/sitemap.html.gz
+Sitemap: https://gulagon.github.io/src/sitemap.html.gz
